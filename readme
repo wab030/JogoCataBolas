@@ -1,0 +1,12 @@
+Esse repositório contem um jogo muito simples de jogar. É um jogo chamado CataBolas. O objetivo é coletar o maior número de bolas que caem da tela. 
+
+No entanto o jogo armazenado aqui apresenta alguns problemas de execução. Corrija os erros e implemente algumas novas funcionalidades.
+
+1. Acrescente uma borda no Canvas. 
+2. Exiba um marcador na tela de acordo com o seguinte critério
+    A cada bola pega o jogador ganha um ponto.
+    A cada bola perdida o jogador perde um ponto.
+3. A cada 10 pontos aumente a velocidade da bola em uma unidade. 
+4. A paleta deve andar para a direita e para a esquerda
+5. Crie um design mais arrojado para o jogo sem perder as suas funcionalidades básicas.
+6. Faça upload do seu código no Edmodo. 
